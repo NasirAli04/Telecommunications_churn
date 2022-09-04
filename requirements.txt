@@ -1,0 +1,6 @@
+pandas
+sweetviz
+matplotlib
+sklearn
+statsmodels
+numpy
